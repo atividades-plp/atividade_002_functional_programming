@@ -1,4 +1,4 @@
-# # Atividade 2: Programação funcional
+# Atividade 2: Programação funcional
 
 Código implementados em [**Lisp**](./lisp/) e [**Haskell**](./haskell/) para exemplificar os conceitos da programação
 funcional. Os exemplos implementados são:
