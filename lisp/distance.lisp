@@ -1,12 +1,11 @@
 (defun calculate-distance-between (x1 y1 x2 y2)
-  (sqrt 
-		(+ 
-			(* 
-        (- x2 x1) 
-				(- x2 x1)) 
-			(* 
-				(- y2 y1) 
-				(- y2 y1)))))
+  (sqrt (+ 
+    (* 
+      (- x2 x1) 
+      (- x2 x1)) 
+    (* 
+      (- y2 y1) 
+      (- y2 y1)))))
 
 (defun read-integer (message)
   (write-line message)
